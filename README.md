@@ -27,7 +27,7 @@ python generate.py -p "A Chef is cooking"
 
 - `-p`: Promp，魔法咒語。
 - `-m`: 生成圖片的模型，預設使用 DALL-E 3。
-- `-s`: 生成圖片的大小，預設是 1024x1025。
+- `-s`: 生成圖片的大小，預設是 1024x1024。
 - `-q`: 生成圖片的品質，預設是 standard。
 - `-o`: 儲存位置，預設存在 `output/`。
 
